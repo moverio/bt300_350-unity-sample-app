@@ -1,8 +1,8 @@
-#######################################
-#				      #								
-#    BT-300 Sample Unity App Readme   #							
-#                                     #							
-#######################################														
+################################################
+#			  	               #								
+#    BT-300 / BT-350 Sample Unity App Readme   #							
+#                                              #							
+################################################														
 
 ---------------------------------------
 Introduction
@@ -66,7 +66,7 @@ While in a scene described above, the user can tap the headset to change to the 
 Application Requirements and Installation
 ------------------------------------------------------
 
-Requirements: EPSON Moverio BT-300 Smart Glasses, Unity Editor 5.X or above.
+Requirements: EPSON Moverio BT-300 or BT-350 Smart Glasses, Unity Editor 5.X or above.
 
 How to import the project into Unity Editor:
 
@@ -88,6 +88,7 @@ See Also:
 	BT-300 Unity Plugin: https://github.com/moverio/BT300-Unity_Plugin-Preview
 	BT-300 SDK: https://tech.moverio.epson.com/en/bt-300/sdk_download.html
 	BT-300 Documentation: https://tech.moverio.epson.com/en/bt-300/document.html
+	BT-350 Documentation: https://tech.moverio.epson.com/en/bt-350/document.html
 	Get Unity: https://store.unity.com/
 
 
