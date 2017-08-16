@@ -7,7 +7,7 @@
 ---------------------------------------
 Introduction
 ---------------------------------------
-This is a sample application built using the following plugin for the BT-300: 
+This is a sample application built using the following plugin for the BT-300 / BT-350: 
 	https://github.com/moverio/BT300-Unity_Plugin-Preview
 
 This will show how to read data from various sensors for use in a Unity Project. 
