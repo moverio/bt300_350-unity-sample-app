@@ -1,39 +1,29 @@
-################################################
-#			  	               #								
-#    BT-300 / BT-350 Sample Unity App Readme   #							
-#                                              #							
-################################################														
+# BT-300 / BT-350 Sample Unity App Readme
 
----------------------------------------
-Introduction
----------------------------------------
+## Introduction
+
 This is a sample application built using the following plugin for the BT-300 / BT-350: 
 	https://github.com/moverio/BT300-Unity_Plugin-Preview
 
 This will show how to read data from various sensors for use in a Unity Project. 
 
 
-
-
 This Application Demonstrates the Following Features:
 
------------------------------------
- 1. Accelerometer Module          
------------------------------------
+
+## 1. Accelerometer Module          
    
 The working of this module demonstrates Headset and controller movement.
 A ball moves on the basis of Device's accelerometer values.
           		
--------------------------------------
-2. Gyroscope & Magnetic-Field Module
--------------------------------------
+
+## 2. Gyroscope & Magnetic-Field Module
 
 This module is to demonstrate see-through capability of the glass as well as the Gyroscopic value. 
 Magnetometer will locate the real North on the basis of controller's Magnetic field raw data.
 
-------------------------------------------
-4. Controller & Illumination Sensor Module 
-------------------------------------------
+
+## 4. Controller & Illumination Sensor Module 
 
 This module shows demonstrate device's handheld controller and illumination sensor mentioned below.
 	(a)   Enterkey: Changes capsule color.
@@ -41,30 +31,26 @@ This module shows demonstrate device's handheld controller and illumination sens
 	(c)   Trackpad: Moves the capsule on the basis of touch input.
 	(d)   Brightness Bar: Changes the intensity of screen brightness.
 
--------------------------------
-5. Actual Sensor Module
--------------------------------
+
+## 5. Actual Sensor Module
 
 This module is the combination of Accelerometer and Gyroscopic values.
 Two planes with Green and Red ball can be observed.
 One ball at a time can move, if it is visible to eyesight.
 
--------------------------------
-6. Rotational Vector Module
--------------------------------
+
+## 6. Rotational Vector Module
 
 This module is based on the handheld device's rotation values.
 A cube is placed to show the rotation in all axis.
 
--------------------------------
-7. Headset Tap Feature
--------------------------------
+
+## 7. Headset Tap Feature
 
 While in a scene described above, the user can tap the headset to change to the next scene. 
 
-------------------------------------------------------
-Application Requirements and Installation
-------------------------------------------------------
+
+## Application Requirements and Installation
 
 Requirements: EPSON Moverio BT-300 or BT-350 Smart Glasses, Unity Editor 5.X or above.
 
@@ -90,5 +76,3 @@ See Also:
 	BT-300 Documentation: https://tech.moverio.epson.com/en/bt-300/document.html
 	BT-350 Documentation: https://tech.moverio.epson.com/en/bt-350/document.html
 	Get Unity: https://store.unity.com/
-
-
